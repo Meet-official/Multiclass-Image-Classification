@@ -1,8 +1,8 @@
-# 🐠 Fish Image Classification with Deep Learning
+# 🐠 Multiclass-Image Classification with Deep Learning
 
 ## 📌 Project Overview
 
-The goal of this project is to **classify fish images** into distinct categories using **deep learning techniques**. The steps involved in this workflow include:
+The goal of this project is to **marine images** into distinct categories using **deep learning techniques**. The steps involved in this workflow include:
 
 1. **Training a custom CNN model** designed specifically for this task.
 2. **Applying transfer learning** with a range of well-known pre-trained models.
