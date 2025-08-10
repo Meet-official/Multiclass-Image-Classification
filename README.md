@@ -60,7 +60,6 @@ The goal of this project is to **marine images** into distinct categories using 
 📦 fish-classification
 │── Multiclass-Fish-Image-classification.ipynb                # Model training script
 │── best_model.h5                                             # Saved best model as .h5 file
-│── cnn_fish_model.h5                                         # Custom CNN model
 │── requirements.txt                                          # Python dependencies
 │── README.md                                                 # Project documentation
 ```
