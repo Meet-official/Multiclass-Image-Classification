@@ -63,8 +63,6 @@ The goal of this project is to **marine images** into distinct categories using 
 │── cnn_fish_model.h5                                         # Custom CNN model
 │── requirements.txt                                          # Python dependencies
 │── README.md                                                 # Project documentation
-│── data/                                                     # Dataset folder
-│── myenv                                                     # Environment to run programs
 ```
 
 ---
